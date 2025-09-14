@@ -20,5 +20,8 @@ Images for Projects
 
 ![alt text](https://github.com/itsSirish/Images/blob/main/vgg.png)
 
-
+![alt text](https://github.com/itsSirish/Images/blob/main/zero.png)
+![alt text](https://github.com/itsSirish/Images/blob/main/outpost.png)
+![alt text](https://github.com/itsSirish/Images/blob/main/peng.png)
+![alt text](https://github.com/itsSirish/Images/blob/main/zombie.png)
 

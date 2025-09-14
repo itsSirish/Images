@@ -4,16 +4,17 @@ Images for Projects
 
 ## Screenshots
 
-![App Screenshot](images/Capture.PNG)
+![alt text](https://github.com/itsSirish/game-asset-dapp/blob/main/images/Capture.PNG)
 
-![Asset Dashboard](images/Capture8.PNG)
+![alt text](https://github.com/itsSirish/game-asset-dapp/blob/main/images/Capture8.PNG)
 
-![Advertisement](images/ad.png)
+![alt text](https://github.com/itsSirish/game-asset-dapp/blob/main/images/ad.png)
 
-![DETiGen](images/detigen.png)
+![alt text](https://github.com/itsSirish/game-asset-dapp/blob/main/images/detigen.png)
 
-![DQN](images/dqn.png)
+![alt text](https://github.com/itsSirish/game-asset-dapp/blob/main/images/dqn.png)
 
-![LED](images/led.png)
+![alt text](https://github.com/itsSirish/game-asset-dapp/blob/main/images/led.png)
 
-![Scrabble](images/scrabble.png)
+![alt text](https://github.com/itsSirish/game-asset-dapp/blob/main/images/scrabble.png)
+
